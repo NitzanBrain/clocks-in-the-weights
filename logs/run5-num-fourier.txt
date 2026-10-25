@@ -1,0 +1,26 @@
+gpt_neox.embed_in.weight: top frequencies (k → period 500/k, power share, ×null mean, null 99.5th pct)
+   k=  1 T= 500.00  0.0758  x 19.1  null99.5=0.0050
+   k=  5 T= 100.00  0.0396  x  9.8  null99.5=0.0049
+   k=  2 T= 250.00  0.0372  x  9.3  null99.5=0.0051
+   k=100 T=   5.00  0.0313  x  7.9  null99.5=0.0050
+   k=250 T=   2.00  0.0309  x  7.8  null99.5=0.0055
+   k= 50 T=  10.00  0.0301  x  7.5  null99.5=0.0052
+   k=  3 T= 166.67  0.0238  x  5.9  null99.5=0.0052
+   k= 10 T=  50.00  0.0213  x  5.4  null99.5=0.0050
+   period 2: k=250 (T=2.00) share 0.0309 = x7.8 null
+   period 5: k=100 (T=5.00) share 0.0313 = x7.9 null
+   period 10: k=50 (T=10.00) share 0.0301 = x7.5 null
+   period 100: k=5 (T=100.00) share 0.0396 = x9.8 null
+embed_out.weight: top frequencies (k → period 500/k, power share, ×null mean, null 99.5th pct)
+   k=  1 T= 500.00  0.0913  x 22.9  null99.5=0.0052
+   k=  2 T= 250.00  0.0546  x 13.6  null99.5=0.0053
+   k=250 T=   2.00  0.0502  x 12.6  null99.5=0.0067
+   k=  5 T= 100.00  0.0379  x  9.4  null99.5=0.0052
+   k=100 T=   5.00  0.0372  x  9.3  null99.5=0.0055
+   k=  3 T= 166.67  0.0345  x  8.5  null99.5=0.0055
+   k= 50 T=  10.00  0.0276  x  6.8  null99.5=0.0054
+   k=200 T=   2.50  0.0238  x  5.9  null99.5=0.0054
+   period 2: k=250 (T=2.00) share 0.0502 = x12.6 null
+   period 5: k=100 (T=5.00) share 0.0372 = x9.3 null
+   period 10: k=50 (T=10.00) share 0.0276 = x6.8 null
+   period 100: k=5 (T=100.00) share 0.0379 = x9.4 null

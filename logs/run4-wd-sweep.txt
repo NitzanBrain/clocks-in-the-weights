@@ -1,0 +1,17 @@
+wd=0.1
+epoch   20000 train acc 1.000 test acc 1.000 |W1| 311.9 |W2| 71.2
+share of power in the top frequency: median a=0.995 b=0.994; neurons with >85% in one frequency: a=1.00 b=1.00
+same top frequency for a and b: 1.00
+frequencies used (k: number of neurons): 7:10, 6:10, 10:10, 9:10, 11:10, 5:9, 2:9, 4:9, 3:8, 8:8, 1:7 | distinct=11 of 11
+wd=0.01
+epoch   20000 train acc 1.000 test acc 1.000 |W1| 248.3 |W2| 111.9
+share of power in the top frequency: median a=1.000 b=1.000; neurons with >85% in one frequency: a=0.98 b=0.98
+same top frequency for a and b: 0.99
+frequencies used (k: number of neurons): 7:10, 11:10, 10:10, 9:10, 6:9, 1:9, 5:9, 4:9, 8:8, 3:8, 2:8 | distinct=11 of 11
+== p=23 AdamW wd=0 (raw for RESULTS §2 row)
+epoch   20000 train acc 1.000 test acc 1.000 |W1| 224.9 |W2| 149.3
+p=23 neurons=100
+share of power in the top frequency: median a=0.999 b=1.000; neurons with >85% in one frequency: a=0.94 b=0.96
+same top frequency for a and b: 0.97
+frequencies used (k: number of neurons): 10:11, 7:10, 11:10, 1:9, 6:9, 9:9, 5:9, 4:9, 8:8, 3:8, 2:8 | distinct=11 of 11
+baseline (random weights): median top-frequency share=0.267

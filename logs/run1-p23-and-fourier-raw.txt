@@ -1,0 +1,136 @@
+== p=23 GD (run1 rerun, raw)
+epoch       1 train acc 0.034 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch       2 train acc 0.034 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch       4 train acc 0.034 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch       5 train acc 0.034 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch       8 train acc 0.040 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch      11 train acc 0.040 test acc 0.019 |W1| 67.4 |W2| 48.3
+epoch      17 train acc 0.042 test acc 0.019 |W1| 67.5 |W2| 48.4
+epoch      24 train acc 0.044 test acc 0.019 |W1| 67.6 |W2| 48.4
+epoch      34 train acc 0.048 test acc 0.019 |W1| 67.8 |W2| 48.6
+epoch      49 train acc 0.053 test acc 0.019 |W1| 68.3 |W2| 48.9
+epoch      50 train acc 0.053 test acc 0.019 |W1| 68.3 |W2| 49.0
+epoch      70 train acc 0.059 test acc 0.019 |W1| 69.3 |W2| 49.6
+epoch     100 train acc 0.074 test acc 0.019 |W1| 71.0 |W2| 50.8
+epoch     143 train acc 0.105 test acc 0.000 |W1| 73.9 |W2| 52.9
+epoch     150 train acc 0.107 test acc 0.000 |W1| 74.4 |W2| 53.2
+epoch     200 train acc 0.143 test acc 0.000 |W1| 77.7 |W2| 55.5
+epoch     205 train acc 0.145 test acc 0.000 |W1| 78.0 |W2| 55.7
+epoch     250 train acc 0.189 test acc 0.000 |W1| 80.4 |W2| 57.4
+epoch     292 train acc 0.239 test acc 0.000 |W1| 82.4 |W2| 58.8
+epoch     300 train acc 0.250 test acc 0.000 |W1| 82.8 |W2| 59.1
+epoch     350 train acc 0.305 test acc 0.000 |W1| 85.1 |W2| 60.7
+epoch     400 train acc 0.359 test acc 0.000 |W1| 87.6 |W2| 62.4
+epoch     416 train acc 0.372 test acc 0.000 |W1| 88.4 |W2| 63.0
+epoch     450 train acc 0.429 test acc 0.000 |W1| 90.5 |W2| 64.5
+epoch     500 train acc 0.496 test acc 0.000 |W1| 94.0 |W2| 66.9
+epoch     550 train acc 0.555 test acc 0.019 |W1| 98.2 |W2| 69.9
+epoch     594 train acc 0.641 test acc 0.019 |W1| 102.8 |W2| 73.1
+epoch     600 train acc 0.655 test acc 0.019 |W1| 103.5 |W2| 73.6
+epoch     650 train acc 0.714 test acc 0.019 |W1| 109.9 |W2| 78.2
+epoch     700 train acc 0.763 test acc 0.019 |W1| 117.7 |W2| 83.6
+epoch     750 train acc 0.847 test acc 0.019 |W1| 126.7 |W2| 90.0
+epoch     800 train acc 0.916 test acc 0.019 |W1| 136.7 |W2| 97.0
+epoch     847 train acc 0.956 test acc 0.038 |W1| 146.4 |W2| 103.9
+epoch     850 train acc 0.956 test acc 0.057 |W1| 147.1 |W2| 104.3
+epoch     900 train acc 0.981 test acc 0.094 |W1| 157.3 |W2| 111.5
+epoch     950 train acc 0.994 test acc 0.189 |W1| 167.2 |W2| 118.5
+epoch    1000 train acc 1.000 test acc 0.264 |W1| 176.6 |W2| 125.1
+epoch    1050 train acc 1.000 test acc 0.377 |W1| 185.3 |W2| 131.2
+epoch    1100 train acc 1.000 test acc 0.566 |W1| 193.1 |W2| 136.8
+epoch    1150 train acc 1.000 test acc 0.774 |W1| 200.0 |W2| 141.7
+epoch    1200 train acc 1.000 test acc 0.943 |W1| 205.8 |W2| 145.7
+epoch    1209 train acc 1.000 test acc 0.962 |W1| 206.7 |W2| 146.4
+epoch    1250 train acc 1.000 test acc 0.981 |W1| 210.3 |W2| 149.0
+epoch    1300 train acc 1.000 test acc 1.000 |W1| 213.7 |W2| 151.3
+epoch    1350 train acc 1.000 test acc 1.000 |W1| 216.1 |W2| 153.1
+epoch    1400 train acc 1.000 test acc 1.000 |W1| 217.8 |W2| 154.2
+epoch    1450 train acc 1.000 test acc 1.000 |W1| 218.9 |W2| 155.0
+epoch    1500 train acc 1.000 test acc 1.000 |W1| 219.6 |W2| 155.5
+epoch    1550 train acc 1.000 test acc 1.000 |W1| 220.0 |W2| 155.8
+epoch    1600 train acc 1.000 test acc 1.000 |W1| 220.3 |W2| 156.0
+epoch    1650 train acc 1.000 test acc 1.000 |W1| 220.5 |W2| 156.2
+epoch    1700 train acc 1.000 test acc 1.000 |W1| 220.7 |W2| 156.2
+epoch    1724 train acc 1.000 test acc 1.000 |W1| 220.7 |W2| 156.3
+epoch    1750 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    1800 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    1850 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    1900 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    1950 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2000 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2050 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2100 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2150 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2200 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2250 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2300 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2350 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    2400 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    2450 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    2458 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    2500 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    2550 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2600 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2650 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2700 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2750 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2800 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2850 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2900 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    2950 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3000 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3050 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3100 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3150 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3200 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3250 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3300 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3350 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3400 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3450 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3500 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3506 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3550 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3600 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3650 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3700 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.3
+epoch    3750 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    3800 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    3850 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    3900 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    3950 train acc 1.000 test acc 1.000 |W1| 220.8 |W2| 156.4
+epoch    4000 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4050 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4100 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4150 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4200 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4250 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4300 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4350 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4400 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4450 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4500 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4550 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4600 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4650 train acc 1.000 test acc 1.000 |W1| 220.9 |W2| 156.4
+epoch    4700 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.4
+epoch    4750 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    4800 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    4850 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    4900 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    4950 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    4999 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+epoch    5000 train acc 1.000 test acc 1.000 |W1| 221.0 |W2| 156.5
+p=23 neurons=100
+share of power in the top frequency: median a=0.916 b=0.916; neurons with >85% in one frequency: a=0.56 b=0.57
+same top frequency for a and b: 0.90
+frequencies used (k: number of neurons): 10:12, 1:11, 9:11, 6:11, 5:9, 11:9, 7:8, 2:8, 8:8, 3:7, 4:6 | distinct=11 of 11
+baseline (random weights): median top-frequency share=0.267
+== p=97 N=100 Fourier (weights from run3)
+p=97 neurons=100
+share of power in the top frequency: median a=0.884 b=0.872; neurons with >85% in one frequency: a=0.52 b=0.51
+same top frequency for a and b: 0.91
+frequencies used (k: number of neurons): 8:5, 15:4, 47:4, 34:4, 43:4, 46:4, 6:3, 1:3, 42:3, 37:3, 35:3, 41:3, 12:3, 13:3, 33:3 | distinct=46 of 48
+baseline (random weights): median top-frequency share=0.093
+== tokenizer check
+first missing with space: 558 | without space: 531

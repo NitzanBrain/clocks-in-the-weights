@@ -1,0 +1,5 @@
+days          (n=7): L5H9=0.17; top: L11H11=0.50, L2H6=0.50, L11H2=0.33, L11H0=0.33; chance≈0.14
+months        (n=12): L5H9=0.27; top: L5H1=0.36, L10H4=0.27, L9H4=0.27, L5H9=0.27; chance≈0.08
+letters       (n=26): L5H9=0.04; top: L8H9=0.44, L10H4=0.16, L6H6=0.16, L10H3=0.12; chance≈0.04
+ordinals      (n=10): L5H9=0.78; top: L8H9=1.00, L5H9=0.78, L6H6=0.44, L7H9=0.33; chance≈0.10
+numbers 0-99  (n=100): L5H9=0.64; top: L5H9=0.64, L8H9=0.11, L7H9=0.09, L9H7=0.06; chance≈0.01

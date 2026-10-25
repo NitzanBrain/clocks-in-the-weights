@@ -1,0 +1,4 @@
+none           dirs= 0  exact=0.987  last-digit=0.987
+T=10           dirs= 2  exact=0.940  last-digit=0.940   | random 2 dirs: exact=0.987 last-digit=0.987
+T=100          dirs= 2  exact=0.947  last-digit=0.947   | random 2 dirs: exact=0.987 last-digit=0.987
+T=2,5,10,100   dirs= 8  exact=0.447  last-digit=0.447   | random 8 dirs: exact=0.973 last-digit=0.973

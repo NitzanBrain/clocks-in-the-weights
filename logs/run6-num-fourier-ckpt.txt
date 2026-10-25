@@ -1,0 +1,12 @@
+step      0: in x1.0 all periods | out x1.0 all periods (from the first, sequential run)
+step     64: in T2=x1.0 T5=x1.0 T10=x1.0 T100=x1.0 | out T2=x1.0 T5=x1.0 T10=x1.0 T100=x1.0
+step    256: in T2=x1.0 T5=x1.0 T10=x1.0 T100=x1.0 | out T2=x1.0 T5=x1.0 T10=x1.0 T100=x1.2
+step    512: in T2=x1.0 T5=x1.0 T10=x1.1 T100=x1.0 | out T2=x1.1 T5=x1.2 T10=x1.1 T100=x1.8
+step   1000: in T2=x1.3 T5=x1.4 T10=x1.5 T100=x1.7 | out T2=x1.9 T5=x2.2 T10=x2.2 T100=x5.1
+step   2000: in T2=x5.3 T5=x3.6 T10=x3.8 T100=x4.2 | out T2=x7.7 T5=x4.9 T10=x4.7 T100=x8.1
+step   4000: in T2=x10.3 T5=x6.4 T10=x6.4 T100=x7.3 | out T2=x15.1 T5=x7.4 T10=x6.2 T100=x9.2
+step   8000: in T2=x11.8 T5=x8.3 T10=x8.2 T100=x9.5 | out T2=x15.3 T5=x7.5 T10=x6.2 T100=x9.2
+step  16000: in T2=x11.2 T5=x8.8 T10=x8.5 T100=x10.0 | out T2=x14.2 T5=x7.2 T10=x5.9 T100=x9.0
+step  32000: in T2=x9.9 T5=x8.5 T10=x8.1 T100=x9.9 | out T2=x13.4 T5=x7.5 T10=x5.7 T100=x9.0
+step  64000: in T2=x8.8 T5=x8.4 T10=x7.7 T100=x9.7 | out T2=x13.0 T5=x8.4 T10=x5.9 T100=x9.2
+step   main: in T2=x7.8 T5=x8.0 T10=x7.4 T100=x9.8 | out T2=x12.6 T5=x9.5 T10=x6.8 T100=x9.3

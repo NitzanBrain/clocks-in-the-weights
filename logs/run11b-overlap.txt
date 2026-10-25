@@ -1,0 +1,2 @@
+top-7 PCs principal cosines with periodic subspace: [0.98 0.92 0.83 0.26 0.1  0.04 0.03]  mean cos^2 0.366
+PCs 8-14 principal cosines with periodic subspace: [0.96 0.93 0.83 0.53 0.33 0.22 0.01]  mean cos^2 0.417

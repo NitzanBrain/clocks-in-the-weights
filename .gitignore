@@ -1,0 +1,4 @@
+work/
+pythia-160m/
+*.npz
+__pycache__/

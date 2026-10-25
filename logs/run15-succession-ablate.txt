@@ -1,0 +1,4 @@
+L5H9 succession score, removed none                          : 0.636
+L5H9 succession score, removed periodic 7                    : 0.374
+L5H9 succession score, removed non-periodic high-variance 7  : 0.677
+L5H9 succession score, removed random 7                      : 0.636

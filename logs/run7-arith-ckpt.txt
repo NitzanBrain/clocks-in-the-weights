@@ -1,0 +1,9 @@
+step    512: exact 0.000  parity-correct 0.000
+step   1000: exact 0.005  parity-correct 0.405
+step   2000: exact 0.040  parity-correct 0.500
+step   4000: exact 0.020  parity-correct 0.500
+step   8000: exact 0.010  parity-correct 0.405
+step  16000: exact 0.040  parity-correct 0.495
+step  32000: exact 0.020  parity-correct 0.500
+step  64000: exact 0.010  parity-correct 0.500
+step   main: exact 0.020  parity-correct 0.500

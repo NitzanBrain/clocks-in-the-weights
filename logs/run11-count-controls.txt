@@ -1,0 +1,5 @@
+periodic 7 dirs: 0.440
+  (share of number-embedding variance in the periodic subspace: 0.109; top-7 PCs hold 0.202)
+top-7 PCs: 0.540
+PCs 8-14: 0.627
+random 7 dirs, 10 draws: mean 0.981, min 0.973, max 0.987
